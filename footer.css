@@ -1,0 +1,48 @@
+*{padding: 0;
+    margin:0%;
+
+}
+footer{
+    display: block;
+    height: 50px;
+    background-color: #7c8faf;
+    padding: 10px;
+}
+.menu{
+    background-color: violet;
+    text-decoration: none;
+
+}
+
+
+
+.site-footer > * {
+    padding: 10px 0;
+}
+
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.site-footer-menu{
+    width: 90vw;
+    margin: 4rem auto 0;
+    padding: 1.75rem 0;
+    text-align: right;
+    background-color: #fff;
+    font-size: 0.9rem;
+    border-top: 1px solid #edeff4;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #7c8faf;
+    position: relative;
+}
